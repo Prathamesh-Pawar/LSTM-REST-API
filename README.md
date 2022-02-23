@@ -14,9 +14,8 @@
 3. Clean and preprocess the data
 4. Download and extract Glove embedding from this website (https://nlp.stanford.edu/projects/glove/) and download this zip (https://nlp.stanford.edu/data/glove.42B.300d.zip)
 5. Tokenize the data 
-6. Download glove embedding from 
-7. Use glove embedding as a pretrained embedding for the model
-8. Create a model with embedding layer as the initial layer and 
+6. Use glove embedding as a pretrained embedding for the model
+7. Create a model with embedding layer as the initial layer and 
 add LSTM layer
-9. Train the model
-10. Evaluate the model on Test Dataset
+8. Train the model
+9. Evaluate the model on Test Dataset
