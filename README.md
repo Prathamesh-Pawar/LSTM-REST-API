@@ -4,7 +4,7 @@
 
 1. Run confirm `pip install -r requirments.txt`
 2. Open terminal
-3. Run `python app.py`
+3. Run `python Deployment-flask/app.py`
 4. Open your browser and enter `http://127.0.0.1:5000/`
 
 ### Explanation of Jupyter Notebook
