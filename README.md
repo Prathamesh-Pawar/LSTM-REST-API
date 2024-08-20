@@ -1,4 +1,4 @@
-# AdaptReady
+# LSTM REST API
 
 ### How to run the code
 
